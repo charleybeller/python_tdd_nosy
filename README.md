@@ -1,7 +1,6 @@
 # Test Driven Development in Python with Nosy
-Example of using Python with Nosy for test driven development
+This repo provides and example project set up for Test Driven Development (TDD) in Python with the tool `nosy`.
 
-## Project setup
 The project is organized to have test files in app/test/
 Implementation code is in app/local/
 
