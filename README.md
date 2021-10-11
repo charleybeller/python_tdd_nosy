@@ -23,4 +23,4 @@ Nosy is configured in the `setup.cfg` file which provides the base_path of the p
 ## Unittest
 Unittest is an out-of-the-box testing framework included with Python. Group tests into classes (typically one per module) and name each testing method with the prefix `test_`.
 You can use the setUp(self) method to add testing fixtures.
-TestCase.assertEqual() is the basic test assertion. More assertion methods can be found at (https://docs.python.org/3/library/unittest.html)[https://docs.python.org/3/library/unittest.html]
+TestCase.assertEqual() is the basic test assertion. More assertion methods can be found at [https://docs.python.org/3/library/unittest.html](https://docs.python.org/3/library/unittest.html)
